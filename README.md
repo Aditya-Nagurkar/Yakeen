@@ -40,8 +40,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Aditya-Nagurkar/CodeBharat.git
-    cd CodeBharat
+    git clone https://github.com/Aditya-Nagurkar/Yakeen.git
+    cd Yakeen
     ```
 
 2.  **Install dependencies:**
@@ -89,4 +89,5 @@ In the project directory, you can run:
 ├── .env                 # Environment variables (needs to be created)
 ├── package.json
 └── README.md
+
 ```
